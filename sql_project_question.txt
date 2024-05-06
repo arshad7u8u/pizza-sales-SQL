@@ -1,0 +1,14 @@
+
+Identify the highest-priced pizza.
+ identify the most common pizza size order
+list the top 5 most ordered pizza types along with their quantities.
+join the necessry tables to find the total quantity of each pizza category ordered
+determine the distribution of orders by hour of the day.ch pizza category ordered.
+
+determine the distribution of orders by hour of the day.
+join relevent tables to find the category wise distribution of pizza.
+group the order by date and calculate the average number of order per day
+Determine the top 3 most ordered pizza types based on revenue.
+analyze the cumulative revenue generated over time
+determine  the top 3 most ordered pizza types based on revenue for each pizza category.
+
